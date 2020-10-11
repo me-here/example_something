@@ -1,8 +1,6 @@
-# absolutely no documentation
 def cool():
-    while(True):
-        while(True):
-            while(True):
-                while(True):
-                    while(True):
-                        pass
+    '''This cool function does absolutely nothing.'''
+    pass
+
+
+cool()
